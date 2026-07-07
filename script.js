@@ -15,7 +15,7 @@ function musica(){
 function sorpresa(){
 
     document.getElementById("mensaje").innerHTML =
-    "❤️ Gracias por estos 3 meses tan especiales. Espero seguir creando muchos recuerdos contigo. Te quiero muchísimo ❤️";
+    "❤️ Gracias por estos 3 meses tan especiales. Espero seguir creando muchos recuerdos contigo. Te Amoo muchísimo ❤️";
 
 
     crearCorazones();
