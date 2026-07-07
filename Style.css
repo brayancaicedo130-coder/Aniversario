@@ -6,10 +6,11 @@
 }
 
 body{
-    background: linear-gradient(#ff9a9e, #fad0c4);
+    background:pink;
     color:white;
     text-align:center;
     min-height:100vh;
+}
 }
 
 section{
